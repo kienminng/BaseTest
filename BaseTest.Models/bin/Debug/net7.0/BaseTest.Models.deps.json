@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BaseTest.Models/1.0.0": {
+        "dependencies": {
+          "BaseTest.Common": "1.0.0"
+        },
+        "runtime": {
+          "BaseTest.Models.dll": {}
+        }
+      },
+      "BaseTest.Common/1.0.0": {
+        "runtime": {
+          "BaseTest.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseTest.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaseTest.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

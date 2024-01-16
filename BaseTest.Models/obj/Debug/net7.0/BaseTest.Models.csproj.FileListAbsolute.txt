@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\bin\Debug\net7.0\BaseTest.Models.deps.json
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\bin\Debug\net7.0\BaseTest.Models.dll
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\bin\Debug\net7.0\BaseTest.Models.pdb
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\bin\Debug\net7.0\BaseTest.Common.dll
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\bin\Debug\net7.0\BaseTest.Common.pdb
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\BaseTest.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\BaseTest.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\BaseTest.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\BaseTest.Models.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\BaseTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\BaseTest.Models.csproj.CopyComplete
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\BaseTest.Models.dll
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\refint\BaseTest.Models.dll
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\BaseTest.Models.pdb
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\ref\BaseTest.Models.dll
