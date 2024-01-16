@@ -10,13 +10,13 @@ namespace BaseTest.Models.Entities
 {
     public class OrderDetail : BaseEntity
     {
-        public int OrderId { get; set; }
+        public int? OrderId { get; set; }
         [ForeignKey(nameof(OrderId))]
-        public Order Order { get; set; }
-        public int ProductId { get; set; }
+        public Order? Order { get; set; }
+        public int? ProductId { get; set; }
         [ForeignKey(nameof(ProductId))]
         [Required]
-        public Product product { get; set; }
+        public Product? Product { get; set; }
         [Range(0, double.MaxValue)]
         public double Price { get; set; }
         [Range(0, int.MaxValue)]

@@ -13,3 +13,4 @@ C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\ob
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\refint\BaseTest.Models.dll
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\BaseTest.Models.pdb
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\ref\BaseTest.Models.dll
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Models\obj\Debug\net7.0\BaseTest.Models.sourcelink.json

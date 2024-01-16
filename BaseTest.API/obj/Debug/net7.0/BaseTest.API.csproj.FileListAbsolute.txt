@@ -88,3 +88,4 @@ C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.API\bin\D
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.API\bin\Debug\net7.0\MimeKit.dll
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.API\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.API\obj\Debug\net7.0\BaseTest.API.sourcelink.json

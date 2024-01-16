@@ -19,3 +19,4 @@ C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Business\
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Business\obj\Debug\net7.0\ref\BaseTest.Business.dll
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Business\bin\Debug\net7.0\BaseTest.Business.runtimeconfig.json
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Business\obj\Debug\net7.0\BaseTest.Business.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Business\obj\Debug\net7.0\BaseTest.Business.sourcelink.json

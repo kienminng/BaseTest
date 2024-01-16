@@ -9,3 +9,4 @@ C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Common\ob
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Common\obj\Debug\net7.0\refint\BaseTest.Common.dll
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Common\obj\Debug\net7.0\BaseTest.Common.pdb
 C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Common\obj\Debug\net7.0\ref\BaseTest.Common.dll
+C:\Users\Admin\Desktop\Learn Create Base Code C#\BaseTest.API\BaseTest.Common\obj\Debug\net7.0\BaseTest.Common.sourcelink.json
