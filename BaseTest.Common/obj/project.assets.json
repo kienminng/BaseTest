@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj",
       "projectName": "BaseTest.Common",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

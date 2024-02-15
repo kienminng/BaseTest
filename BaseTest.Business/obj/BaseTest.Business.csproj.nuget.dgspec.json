@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Business\\BaseTest.Business.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Business\\BaseTest.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Business\\BaseTest.Business.csproj": {
+    "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Business\\BaseTest.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Business\\BaseTest.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Business\\BaseTest.Business.csproj",
         "projectName": "BaseTest.Business",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Business\\BaseTest.Business.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Business\\BaseTest.Business.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Business\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\BaseTest.Repository.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\BaseTest.Repository.csproj"
+              "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\BaseTest.Repository.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\BaseTest.Repository.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj": {
+    "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj",
         "projectName": "BaseTest.Common",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\BaseTest.Models.csproj": {
+    "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\BaseTest.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\BaseTest.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\BaseTest.Models.csproj",
         "projectName": "BaseTest.Models",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\BaseTest.Models.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\BaseTest.Models.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +176,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj"
+              "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Common\\BaseTest.Common.csproj"
               }
             }
           }
@@ -211,14 +211,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\BaseTest.Repository.csproj": {
+    "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\BaseTest.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\BaseTest.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\BaseTest.Repository.csproj",
         "projectName": "BaseTest.Repository",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\BaseTest.Repository.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\BaseTest.Repository.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -235,8 +235,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\BaseTest.Models.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\BaseTest.Models.csproj"
+              "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\BaseTest.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\C#\\Learn Create Base Code C#\\BaseTest.API\\BaseTest.Models\\BaseTest.Models.csproj"
               }
             }
           }

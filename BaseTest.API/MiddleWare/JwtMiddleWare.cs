@@ -72,7 +72,6 @@ public class JwtMiddleWare : IMiddleware
             
             context.Response.StatusCode = (int)HttpStatusCode.Unauthorized;
             context.Response.ContentType = "application/json";
-            
             context.Response.WriteAsync(JsonSerializer.Serialize(errorResponse));
         }
     }

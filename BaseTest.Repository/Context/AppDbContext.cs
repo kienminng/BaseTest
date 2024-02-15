@@ -9,7 +9,7 @@ namespace BaseTest.Repository.Context
         {
 
         }
-
+        
         public DbSet<ExchangeHistory> ExchangeHistories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Transaction> Transactions { get; set; }
